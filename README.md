@@ -1,6 +1,12 @@
 # Todo-task
 Build a To-Do application Using Django and React
 
+
+![Python](http://www.spsstools.net/static/img/python-icon1.png "Python")  
+![Django](https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png "Django") 
+![react.js](https://icon-library.com/images/react-icon/react-icon-29.jpg "react.js")
+
+
 On this practice i was use djangorestframework, django-cors-headers, axios, bootstrap, and reactstrap libraries.
 
 ## How  running the Project Locally
